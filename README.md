@@ -1,1 +1,1 @@
-# bubble-game
+# com.ehr.bubble-game
